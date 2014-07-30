@@ -1,0 +1,479 @@
+	<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+        <title>Travelo - Heti Esszencia</title>
+        
+        
+               <style type=\'text/css\'> @font-face {
+	font-family: "OpenSans";
+	src: local('¢'), url(http://szallas.travelo.hu/public/css/fonts/OpenSans-Regular.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+</style>
+    </head>
+    <body>
+<body style="background: #f5f4f2 url('http://stuff.szallas.travelo.hu/hirlevel/misc/fullbg.png'); text-decoration:none; font-size: 14px; font-family: 'OpenSans',arial,helvetica,sans-serif;margin:0;padding:0"><table style="background: #f5f4f2 url('http://stuff.szallas.travelo.hu/hirlevel/misc/fullbg.png'); width: 100%; font-family: 'OpenSans',arial,helvetica,sans-serif" border="0" align="center">    <tbody>
+    <tr>
+        <td width="100%" align="center">
+            <table style="border: none; width: 660px;" border="0" cellspacing="0" cellpadding="0">
+                <tbody>    <!-- Dátum-->
+                        <tr>
+                            <td style="padding-bottom: 5px; text-align:right; color:#9e9e9e; font-size:14px">2014. március 11.</td>
+                        </tr> 
+                        <!-- Dátum vége-->    <!--Logo+fejléc-->
+<tr>
+    <td>
+        <table  cellpadding="0" cellspacing="0" style="width:660px;margin:0 0 5px 0;">
+            <tr>
+                <td style="width:30%;"><a href="http://szallas.travelo.hu?utm_source=hirlev&utm_medium=20140311&utm_campaign=fooldal" target="_blank"><img src="http://stuff.szallas.travelo.hu/hirlevel/misc/topmenu_logo.png"></a></td>
+                <td style="width:70%;">
+                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                        <tr>
+                            <td valign="baseline" style="background: -webkit-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -o-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -moz-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background:linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); padding: 8px 0  8px 0; margin-top:5px; border-left-style:solid; border-top-style:solid; border-bottom-style:solid; border-width:1px; border-color:#68a133 #72ae38 #68a133 #68a133; border-top-left-radius:8px; border-bottom-left-radius:8px; text-align: center; font-size: 14px; width:5%;">&nbsp;</td>
+                            <td valign="baseline" style="background: -webkit-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -o-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -moz-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background:linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1));padding: 8px 0 8px 0; margin-top:5px; text-align: center; font-size: 14px; width:18%; border-top-style:solid; border-bottom-style:solid; border-width:1px; border-color:#68a133 #72ae38;"><a href="http://travelo.hu/kozel?utm_source=hirlev&utm_medium=20140311&utm_campaign=fejlec-kozel" style="text-decoration: none; color: #fff; font-weight: normal; text-transform: uppercase;" target="_blank">közel</a></td>
+                            <td valign="baseline" style="background: -webkit-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -o-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -moz-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background:linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1));padding: 8px 0 8px 0; margin-top:5px; text-align: center; font-size: 14px; width:18%; border-top-style:solid; border-bottom-style:solid; border-width:1px; border-color:#68a133 #72ae38;"><a href="http://travelo.hu/tavol?utm_source=hirlev&utm_medium=20140311&utm_campaign=fejlec-tavol" style="text-decoration: none; color: #fff; font-weight: normal; text-transform: uppercase;" target="_blank">távol</a></td>
+                            <td valign="baseline" style="background: -webkit-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -o-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -moz-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background:linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1));padding: 8px 0 8px 0; margin-top:5px; text-align: center; font-size: 14px; width:18%; border-top-style:solid; border-bottom-style:solid; border-width:1px; border-color:#68a133 #72ae38;"><a href="http://travelo.hu/cucc?utm_source=hirlev&utm_medium=20140311&utm_campaign=fejlec-cucc" style="text-decoration: none; color: #fff; font-weight: normal; text-transform: uppercase;" target="_blank">cucc</a></td>
+                            <td valign="baseline" style="background: -webkit-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -o-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -moz-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background:linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1));padding: 8px 0 8px 0; margin-top:5px; text-align: center; font-size: 14px; width:18%; border-top-style:solid; border-bottom-style:solid; border-width:1px; border-color:#68a133 #72ae38;"><a href="http://travelo.hu/hirek?utm_source=hirlev&utm_medium=20140311&utm_campaign=fejlec-hirek" style="text-decoration: none; color: #fff; font-weight: normal; text-transform: uppercase;" target="_blank">hírek</a></td>
+                            <td valign="baseline" style="background: -webkit-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -o-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -moz-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background:linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1));padding: 8px 0 8px 0; margin-top:5px; text-align: center; font-size: 14px; width:18%; border-top-style:solid; border-bottom-style:solid; border-width:1px; border-color:#68a133 #72ae38;"><a href="http://szallas.travelo.hu/akciok?utm_source=hirlev&utm_medium=20140311&utm_campaign=fejlec-akciok" style="text-decoration: none; color: #fff; font-weight: normal; text-transform: uppercase;" target="_blank">akciók</a></td>
+                            <td valign="baseline" style="background: -webkit-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -o-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background: -moz-linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); background:linear-gradient(rgba(136,200,65,1), rgba(104,161,51,1)); padding: 8px 0 8px 0; margin-top:5px; border-right-style:solid; border-top-style:solid; border-bottom-style:solid; border-width:1px; border-color:#68a133 #68a133 #68a133 #72ae38; border-top-right-radius:8px; border-bottom-right-radius:8px; text-align: center; font-size: 14px; width:5%;">&nbsp;</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--Logo+fejléc vége-->    <!--Nagyképes-->
+<tr>
+    <td style="background:#ffffff; margin-top:15px">
+        <table  cellpadding="0" cellspacing="0" style="width:625px;margin:15px 20px 15px 15px;">
+            <!--Kép-->
+            <tr>
+                <td align="center"><a href="http://szallas.travelo.hu/?szo=Torokorszag&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=torok"><img src="http://stuff.szallas.travelo.hu/hirlevel/20140311/torok625.jpg" border="0"></a></td>
+            </tr>
+            <tr>
+                <td align="center" style="">
+                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:10px 10px;width:620px;margin-left:5px;">
+                        <!--Cím-->
+                        <tr>
+                            <td style=""><a href="http://szallas.travelo.hu/?szo=Torokorszag&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=torok" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Török riviéra</a></td>
+                        </tr>
+                        <!--Szöveg-->
+                        <tr>
+                            <td style="padding-top:5px;"><a href="http://szallas.travelo.hu/?szo=Torokorszag&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=torok" style="color:#010101; font-size:14px; text-decoration:none;">Elege van a szürke hétköznapokból? Dobja fel hangulatát egy törökországi nyaralással! Repülős utak félpanziós vagy all inclusive ellátással.</a></td>
+                        </tr>                        
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--Nagyképes vége-->    <!--1sor--> 
+    <tr>
+        <td style="background:#ffffff">
+            <table cellpadding="0" cellspacing="0" style="width:625px;margin:0 20px 20px 15px;" align="center">
+                <tr>
+                    <!-- Bal-->
+                    <td style="width:305px;" align="center" valign="top">
+                        <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                            <!--Kép-->
+                            <tr>
+                                <td align="center"><a href="https://secure.travelo.hu/hunguest-hotel-helios/kihagyhatatlan-akcio-hevizen?utm_source=hirlev&utm_medium=20140311&utm_campaign=hunguest_helios"><img src="http://stuff.szallas.travelo.hu/hirlevel/20140311/helios305.jpg" border="0"></a></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 0;width:305px;">
+                                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:5px;width:300px;">
+                                        <!--Cím-->
+                                        <tr>
+                                            <td><a href="https://secure.travelo.hu/hunguest-hotel-helios/kihagyhatatlan-akcio-hevizen?utm_source=hirlev&utm_medium=20140311&utm_campaign=hunguest_helios" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Kihagyhatatlan akció Hévízen</a></td>
+                                        </tr>
+                                        <!--Alcím-->
+                                        <tr>
+                                            <td style=""><a href="https://secure.travelo.hu/hunguest-hotel-helios/kihagyhatatlan-akcio-hevizen?utm_source=hirlev&utm_medium=20140311&utm_campaign=hunguest_helios" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Hunguest Hotel Helios***superior - Hévíz</a></td>
+                                        </tr> 
+                                        <!--Szöveg-->
+                                        <tr>
+                                            <td style="padding-top:4px;"><a href="https://secure.travelo.hu/hunguest-hotel-helios/kihagyhatatlan-akcio-hevizen?utm_source=hirlev&utm_medium=20140311&utm_campaign=hunguest_helios" style="color:#010101; font-size:13px; text-decoration:none;">Töltsön el nálunk minimum 2 éjszakát napi háromszori étkezéssel, élvezze szállodánk wellness, selfness, terápiás és egyéb szolgáltatásait!</a></td>
+                                        </tr>                        
+                                    </table>
+                                </td>
+                            </tr>
+                        </table></td>
+                    <td style="width:15px;">&nbsp;</td>  
+                    <!--Jobb-->
+                    <td style="width:305px;" align="center" valign="top">
+                        <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                            <!--Kép-->
+                            <tr>
+                                <td align="center"><a href="http://szallas.travelo.hu/?szo=Gorogorszag&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=gorog"><img src="http://stuff.szallas.travelo.hu/hirlevel/20140311/gorog305.jpg" border="0"></a></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 0;width:305px;">
+                                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:5px;width:300px;">
+                                        <!--Cím-->
+                                        <tr>
+                                            <td><a href="http://szallas.travelo.hu/?szo=Gorogorszag&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=gorog" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Görög tengerpart</a></td>
+                                        </tr>
+                                        <!--Alcím--> 
+                                        <tr>
+                                            <td><a href="http://szallas.travelo.hu/?szo=Gorogorszag&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=gorog" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Napfény és kristálytiszta tenger</a></td>
+                                        </tr>                                         
+                                        <!--Szöveg-->
+                                        <tr>
+                                            <td style="padding-top:4px;"><a href="http://szallas.travelo.hu/?szo=Gorogorszag&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=gorog" style="color:#010101; font-size:13px; text-decoration:none;">Egy varázslatos hét várja a vendégszeretetéről is híres Görögországban! Korfu, Kréta, Zakynthos, Kefalonia, Karpathos, Chalkidiki, Kos, Rodosz.</a></td>
+                                        </tr>                        
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>                   
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>    <!--1sor--> 
+    <tr>
+        <td style="background:#ffffff">
+            <table cellpadding="0" cellspacing="0" style="width:625px;margin:0 20px 20px 15px;" align="center">
+                <tr>
+                    <!-- Bal-->
+                    <td style="width:305px;" align="center" valign="top">
+                        <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                            <!--Kép-->
+                            <tr>
+                                <td align="center"><a href="https://secure.travelo.hu/hunguest-hotel-beke/szoboszloi-napok-es-gyermek-akcio?utm_source=hirlev&utm_medium=20140311&utm_campaign=hunguest_beke"><img src="http://stuff.szallas.travelo.hu/hirlevel/20140311/beke305.jpg" border="0"></a></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 0;width:305px;">
+                                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:5px;width:300px;">
+                                        <!--Cím-->
+                                        <tr>
+                                            <td><a href="https://secure.travelo.hu/hunguest-hotel-beke/szoboszloi-napok-es-gyermek-akcio?utm_source=hirlev&utm_medium=20140311&utm_campaign=hunguest_beke" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Szoboszlói gyermek akció</a></td>
+                                        </tr>
+                                        <!--Alcím-->
+                                        <tr>
+                                            <td style=""><a href="https://secure.travelo.hu/hunguest-hotel-beke/szoboszloi-napok-es-gyermek-akcio?utm_source=hirlev&utm_medium=20140311&utm_campaign=hunguest_beke" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Hunguest Hotel Béke**** - Hajdúszoboszló</a></td>
+                                        </tr> 
+                                        <!--Szöveg-->
+                                        <tr>
+                                            <td style="padding-top:4px;"><a href="https://secure.travelo.hu/hunguest-hotel-beke/szoboszloi-napok-es-gyermek-akcio?utm_source=hirlev&utm_medium=20140311&utm_campaign=hunguest_beke" style="color:#010101; font-size:13px; text-decoration:none;">Szállás, félpanzió, wellness részleg és fitness terem használata. 
+</a></td>
+                                        </tr>                        
+                                    </table>
+                                </td>
+                            </tr>
+                        </table></td>
+                    <td style="width:15px;">&nbsp;</td>  
+                    <!--Jobb-->
+                    <td style="width:305px;" align="center" valign="top">
+                        <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                            <!--Kép-->
+                            <tr>
+                                <td align="center"><a href="http://szallas.travelo.hu/?szo=varoslatogatas&kulfold=1&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=varoslatogatas"><img src="http://stuff.szallas.travelo.hu/hirlevel/20140311/varoslatogatas305.jpg" border="0"></a></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 0;width:305px;">
+                                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:5px;width:300px;">
+                                        <!--Cím-->
+                                        <tr>
+                                            <td><a href="http://szallas.travelo.hu/?szo=varoslatogatas&kulfold=1&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=varoslatogatas" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Tavaszi városlátogatás</a></td>
+                                        </tr>
+                                        <!--Alcím--> 
+                                        <tr>
+                                            <td><a href="http://szallas.travelo.hu/?szo=varoslatogatas&kulfold=1&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=varoslatogatas" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Róma, London, Párizs...</a></td>
+                                        </tr>                                         
+                                        <!--Szöveg-->
+                                        <tr>
+                                            <td style="padding-top:4px;"><a href="http://szallas.travelo.hu/?szo=varoslatogatas&kulfold=1&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=varoslatogatas" style="color:#010101; font-size:13px; text-decoration:none;">Fedezze fel a városok legizgalmasabb arcát! Legyen minden nap egy újabb élmény! </a></td>
+                                        </tr>                        
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>                   
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>    <!--1sor--> 
+    <tr>
+        <td style="background:#ffffff">
+            <table cellpadding="0" cellspacing="0" style="width:625px;margin:0 20px 20px 15px;" align="center">
+                <tr>
+                    <!-- Bal-->
+                    <td style="width:305px;" align="center" valign="top">
+                        <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                            <!--Kép-->
+                            <tr>
+                                <td align="center"><a href="https://secure.travelo.hu/nimrod-bioszalloda/ev-eleji-kedvezmenyes-ajanlat?utm_source=hirlev&utm_medium=20140311&utm_campaign=nimrod"><img src="http://stuff.szallas.travelo.hu/hirlevel/20140311/nimrod305.jpg" border="0"></a></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 0;width:305px;">
+                                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:5px;width:300px;">
+                                        <!--Cím-->
+                                        <tr>
+                                            <td><a href="https://secure.travelo.hu/nimrod-bioszalloda/ev-eleji-kedvezmenyes-ajanlat?utm_source=hirlev&utm_medium=20140311&utm_campaign=nimrod" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Kedvezményes ajánlat</a></td>
+                                        </tr>
+                                        <!--Alcím-->
+                                        <tr>
+                                            <td style=""><a href="https://secure.travelo.hu/nimrod-bioszalloda/ev-eleji-kedvezmenyes-ajanlat?utm_source=hirlev&utm_medium=20140311&utm_campaign=nimrod" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Nimród Bioszálloda és Bioétterem, Biobolt, Karcag****</a></td>
+                                        </tr> 
+                                        <!--Szöveg-->
+                                        <tr>
+                                            <td style="padding-top:4px;"><a href="https://secure.travelo.hu/nimrod-bioszalloda/ev-eleji-kedvezmenyes-ajanlat?utm_source=hirlev&utm_medium=20140311&utm_campaign=nimrod" style="color:#010101; font-size:13px; text-decoration:none;">Pihenje ki a hétköznapok fáradalmait csendes,nyugodt környezetben Karcagon!</a></td>
+                                        </tr>                        
+                                    </table>
+                                </td>
+                            </tr>
+                        </table></td>
+                    <td style="width:15px;">&nbsp;</td>  
+                    <!--Jobb-->
+                    <td style="width:305px;" align="center" valign="top">
+                        <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                            <!--Kép-->
+                            <tr>
+                                <td align="center"><a href="http://szallas.travelo.hu/?szo=Tunezia&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=tunezia"><img src="http://stuff.szallas.travelo.hu/hirlevel/20140311/tunezia305.jpg" border="0"></a></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 0;width:305px;">
+                                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:5px;width:300px;">
+                                        <!--Cím-->
+                                        <tr>
+                                            <td><a href="http://szallas.travelo.hu/?szo=Tunezia&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=tunezia" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Tunézia</a></td>
+                                        </tr>
+                                        <!--Alcím--> 
+                                        <tr>
+                                            <td><a href="http://szallas.travelo.hu/?szo=Tunezia&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=tunezia" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Irány a nyár!</a></td>
+                                        </tr>                                         
+                                        <!--Szöveg-->
+                                        <tr>
+                                            <td style="padding-top:4px;"><a href="http://szallas.travelo.hu/?szo=Tunezia&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=tunezia" style="color:#010101; font-size:13px; text-decoration:none;">Fehér homokos strandok, színpompás vadvirágok - évezredes oázis, ahol fázni és unatkozni sosem fog!
+
+</a></td>
+                                        </tr>                        
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>                   
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>    <!--Kisképes blokk vége-->    <!--Leggyakoribb (2 hasábos)--> 
+<tr>
+    <td style="background:#ffffff">
+        <table cellpadding="0" cellspacing="0" style="margin-bottom: 20px;">
+            <tr>
+                <td align="center" style="background:#ffffff;">
+                    <img src="http://stuff.szallas.travelo.hu/hirlevel/misc/leggyakoribb-top.png" border="0" style="display: block;" />
+                </td>
+            </tr>
+            <tr>
+                <td style="background: #ffffff">
+                    <table width="620px" cellpadding="0" cellspacing="0" style="border-left:2px solid #e5e5e5;border-right:2px solid #e5e5e5; margin: 0 20px">
+                        <tr>
+                            <td style="width:50%" valign="top">
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?keyword=husvet&belfold=1&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=husvet" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Húsvéti örömök<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – ünnepi programok</span></a></td></tr></table>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?szo=szechenyi_piheno_kartya&utm_source=hirlev&utm_medium=20140311&utm_campaign=szep_kartya" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Szép-kártya<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – panzió, hotel, wellness szálló</span></a></td></tr></table>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?keyword=punkosd&belfold=1&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=punkosd" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Pünkösd<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – júniusi hosszú hétvége</span></a></td></tr></table>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?szo=Balaton&belfold=1&utm_source=hirlev&utm_medium=20140311&utm_campaign=balaton" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Balaton<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – gondoljon a nyárra!</span></a></td></tr></table>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?keyword=majus1&belfold=1&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=majus1" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Május 1.<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – 4 napos kikapcsolódás</span></a></td></tr></table>
+                                
+                                </td>
+                            <td style="width:50%" valign="top">
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?szo=Madeira&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=madeira" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Madeira<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – lenyűgöző tájak közt</span></a></td></tr></table>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?szo=Usa&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=usa" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">USA<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – úton az álmok földjén</span></a></td></tr></table>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?szo=Szicilia&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=szicilia" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Szicília<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – fejedelmi nyaralás</span></a></td></tr></table>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/?szo=Izrael&rendezes=csomagar|asc&utm_source=hirlev&utm_medium=20140311&utm_campaign=izrael" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Izrael<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – változatos körutak</span></a></td></tr></table>
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px"><tr><td><a href="http://szallas.travelo.hu/kulfold/sissi-park-schladming-dachstein?utm_source=hirlev&utm_medium=20140311&utm_campaign=sissi_park" style="color:#1a438a; font-weight:bold; font-size:14px; text-decoration:none">Sissi Park****<span style="color:#D40063; font-size:14px; font-weight:normal; text-decoration:none"> – pályaszállás apartmanok</span></a></td></tr></table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="background:#ffffff">
+                    <img src="http://stuff.szallas.travelo.hu/hirlevel/misc/legfrissebb-bottom.png" />
+                </td>
+            </tr>                                
+        </table>
+    </td>
+</tr>
+<!--Leggyakoribb (2 hasábos) vége-->    <!--Cikkek-->
+<tr>
+    <td style="background:#ffffff">
+        <table cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
+            <tr>
+                <td align="center" style="background:#ffffff">
+                    <img src="http://stuff.szallas.travelo.hu/hirlevel/misc/legfrissebb-top.png" border="0" style="display: block;" />
+                </td>
+            </tr>
+            <tr>
+                <td style="background: #ffffff">
+                    <table width="620" cellpadding="0" cellspacing="0" style="border-left:2px solid #e5e5e5;border-right:2px solid #e5e5e5; margin: 0 20px;width:620px;">
+                        <tr>
+                            <td style="width:300px;" valign="top">
+                                <table style="width:300px;">
+                                    <tr>
+                                        <td style="padding: 0px 10px">
+                                            <a href="http://travelo.hu/kozel/2014/03/11/szponzoralt_cikkek/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_nepszerusitik_hazankat" style="color:#1a438a; font-weight:bold; font-size:18px; text-decoration:none">Szponzorált cikkek népszerűsítik hazánkat</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px">
+                                            <a href="http://travelo.hu/kozel/2014/03/11/szponzoralt_cikkek/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_nepszerusitik_hazankat" style="color:#a8a8a8; font-size:12px; text-decoration:none">2014. március 11., kedd 09:10</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 0px 10px">
+                                            <a href="http://travelo.hu/kozel/2014/03/11/szponzoralt_cikkek/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_nepszerusitik_hazankat" style="color:#010101; font-size:14px; text-decoration:none;">Sorra jelennek meg a külföldi sajtóban a Magyarország turisztikai látványosságát bemutató cikkek: a CNN, a New York Times, az angol Daily Mail és a Sunday Times is közölt az elmúlt évben a romkocsmák, a termálfürdők és a magyar konyha érdemeit méltató írást.</a>
+                                        </td>
+                                    </tr>                        
+                                </table>
+                            </td>
+                            <td style="width:20px;"></td>  
+                            <td style="width:300px;" valign="top">
+                                <table cellpadding="0" cellspacing="0" border="0" style="width:300px;padding-bottom:10px;">
+                                    <tr>
+                                        <td><a href="http://travelo.hu/tavol/2014/03/07/tulertekelt_eu_2_-_malaga/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_malaga" style="color:#1a438a;font-size:14px; text-decoration:none">Tapas, tengerpart és Picasso: válassza Malagát a túlértékelt Barcelona helyett!</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="http://travelo.hu/tavol/2014/03/07/tulertekelt_eu_2_-_malaga/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_malaga" style="color:#a8a8a8; font-size:12px; text-decoration:none">2014. március 7., péntek 09:42</a></td>
+                                    </tr>
+                                </table>
+                                <table cellpadding="0" cellspacing="0" border="0" style="width:300px;padding-bottom:10px;">
+                                    <tr>
+                                        <td><a href="http://travelo.hu/kozel/2014/03/05/tavaszi_balaton/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_tavaszi_balaton" style="color:#1a438a;font-size:14px; text-decoration:none">Bock Bisztro és új látnivalók a Balatonnál</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="http://travelo.hu/kozel/2014/03/05/tavaszi_balaton/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_tavaszi_balaton" style="color:#a8a8a8; font-size:12px; text-decoration:none">2014. március 5., szerda 10:55</a></td>
+                                    </tr>
+                                </table>
+                                <table cellpadding="0" cellspacing="0" border="0" style="width:300px;padding-bottom:10px;">
+                                     <tr>
+                                        <td><a href="http://travelo.hu/cucc/2014/03/10/legitarsasagok/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_legitarsasagok" style="color:#1a438a;font-size:14px; text-decoration:none">A semminél a félzsemlés kávé is jobb</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="http://travelo.hu/cucc/2014/03/10/legitarsasagok/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_legitarsasagok" style="color:#a8a8a8; font-size:12px; text-decoration:none">2014. március 10., hétfő 09:36</a></td>
+                                    </tr>
+                                </table>
+                                <table cellpadding="0" cellspacing="0" border="0" style="width:300px;padding-bottom:10px;">
+                                    <tr>
+                                        <td><a href="http://travelo.hu/tavol/2014/03/06/macskahotel_lyonban/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_macskahotel" style="color:#1a438a;font-size:14px; text-decoration:none">Macskahotel nyílt Lyonban</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="http://travelo.hu/tavol/2014/03/06/macskahotel_lyonban/?utm_source=hirlev&utm_medium=20140311&utm_campaign=cikk_macskahotel" style="color:#a8a8a8; font-size:12px; text-decoration:none">2014. március 6., csütörtök 13:35</a></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="background:#ffffff">
+                    <img src="http://stuff.szallas.travelo.hu/hirlevel/misc/legfrissebb-bottom.png" />
+                </td>
+            </tr>                                
+        </table>
+    </td>
+</tr>            
+<!--Cikkek vége-->        <!--Turpan + szöveges-->
+<tr>
+    <td align="center" style="background:#ffffff">
+        <table cellpadding="0" cellspacing="0" style="width:625px;margin:0 20px 20px 15px;" align="center">
+            <tr>
+                <!--Turpan-->                                       
+                <td style="width:305px;" align="center" valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                        <tr>
+                            <td align="center" style="padding: 0;width:305px;">
+                                <table cellpadding="0" cellspacing="0" align="center">
+                                    <tr>
+                                        <td align="center">
+                                            <img src="http://stuff.szallas.travelo.hu/hirlevel/misc/utazasihir-top.png" border="0" style="display: block;" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background: #ffffff;border-left:2px solid #e5e5e5;border-right:2px solid #e5e5e5;width: 255px">
+                                            <ul style="margin: 5px 0 5px 20px; padding:10px;">
+                                                <li style="color:#a8a8a8; margin-bottom: 5px"><a href="http://businesstraveller.hu/bt_szallashelyek/nokre-szabott-szolgaltatasok-az-mgallery-nel-1121003" style="color:#1a438a;font-size:14px; text-decoration:none">Nőkre szabott szolgáltatások az MGallerynél</a></li><li style="color:#a8a8a8; margin-bottom: 5px"><a href="http://businesstraveller.hu/uti_celok/gruziaba-a-wizz-airrel-1121000" style="color:#1a438a;font-size:14px; text-decoration:none">Grúziába a Wizz Airrel</a></li><li style="color:#a8a8a8; margin-bottom: 5px"><a href="http://businesstraveller.hu/bt_hirek/magyarorszag-leglatogatottabb-telepulesei-2013-ban-1120910" style="color:#1a438a;font-size:14px; text-decoration:none">Magyarország leglátogatottabb települései</a></li><li style="color:#a8a8a8; margin-bottom: 5px"><a href="http://businesstraveller.hu/bt_szallashelyek/hotel-vecsecity-kastelyba-zart-varos-nyilik-1121002" style="color:#1a438a;font-size:14px; text-decoration:none">Nyílik a Hotel Vécsecity</a></li>
+                                               </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" style="border-left:2px solid #e5e5e5;border-right:2px solid #e5e5e5;">
+                                            <img src="http://stuff.szallas.travelo.hu/hirlevel/misc/turizmuscom-logo.png" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">
+                                            <img src="http://stuff.szallas.travelo.hu/hirlevel/misc/utazasihir-bottom.png" />
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <!--Turpan vége-->
+                <td style="width:20px;">&nbsp;</td>  
+                <td style="width:305px;" align="center" valign="top">
+                    <!--Szöveges-->
+                    <table width="300" cellspacing="0" cellpadding="0" align="center" style="width:300px;margin-left:5px;margin-top:13px;">
+                        <tr>
+                            <td style="padding: 20px;background: #f8f5e5; border:1px solid #e5e5e5">
+                                <table width="100%" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td style="padding:0 0 10px 0">
+                                            <a style="text-decoration:none;" href="http://azenlegitarsasagom.hu/?utm_source=hirlev&utm_medium=20140311&utm_campaign=azenlegitarsasagom"><img src="http://stuff.szallas.travelo.hu/hirlevel/20140311/legitarsasagom120.jpg" border="0" align="left" style="padding-right:10px;" /></a><a style="color:#1a438a; font-size:15px; font-weight:bold; text-decoration:none; text-transform:uppercase" href="http://azenlegitarsasagom.hu/?utm_source=hirlev&utm_medium=20140311&utm_campaign=azenlegitarsasagom">Keressük Magyarország kedvenc légi- társaságát!</a>
+                                         </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td><a style="color:#010101; font-size:14px; text-decoration:none;" href="http://azenlegitarsasagom.hu/?utm_source=hirlev&utm_medium=20140311&utm_campaign=azenlegitarsasagom">Értékelje repülős utazását, írja meg véleményét! Az élménybeszámolókat megosztók között értékes díjakat sorsolunk ki!</a></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>                                                                             
+                    </table>                                               
+                </td>                  
+            </tr>
+        </table>
+    </td>
+</tr> 
+<!--Turpan + szöveges vége-->    <tr>
+        <td align="center" style="padding: 25px 0; background:#ffffff">
+            <img usemap="#bottommenuimagemap" src="http://stuff.szallas.travelo.hu/hirlevel/misc/bottommenu.png" border="0" />
+         </td>
+     </tr>    <tr>
+    <td valign="top">
+        <table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 20px; background: #ffffff">
+            <tr>
+                <td style="padding: 20px; font-size:12px; color: #5d5d5d; text-align:center">
+                    Ezt az emailt azért kaptad, mert Indapass regisztrációddal hozzájárultál a Travelo és a CEMP csoport tartalmaiból összeállított hírlevél fogadásához. Ha szeretnél leiratkozni, <a href="%Link:Unsubscribe%" style="color: #ec006e; text-decoration:none">itt</a> teheted meg.
+                    <br /><br />
+                    A Confhotel-Net Kft. és a jelen hírlevélben szereplő partnerei fenntartják az utazással kapcsolatos feltételek és árak módosításának jogát.
+                </td>
+            </tr>
+        </table>
+        <table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 20px;">
+            <tr>
+                <td style="padding: 20px; font-size:12px; color: #5d5d5d; font-weight:bold; text-align:center">
+                    Confhotel-Net Kft.  •  1033 Budapest, Flórián tér 1.  •  Tel.: +36 1 7001 002  •  Fax: +36 1 7002 502  •  E-mail: <a href="" style="color: #ec006e; text-decoration:none">info@travelo.hu</a>
+                </td>
+            </tr>
+        </table>            
+    </td>
+</tr></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>    <map name="bottommenuimagemap" id="bottommenuimagemap">
+    <area shape="rect" coords="58,17,201,47" href="http://repulojegy.travelo.hu/" alt="rep" target="_blank" />
+    <area shape="rect" coords="248,14,412,48" href="http://autoberles.travelo.hu/" target="_blank" />
+    <area shape="rect" coords="464,11,614,47" href="http://biztositas.travelo.hu/" target="_blank" />
+</map>     </body>
+	</html>
+	

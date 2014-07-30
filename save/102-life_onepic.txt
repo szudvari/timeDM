@@ -1,0 +1,131 @@
+	<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+        <title>Life Utazás</title>
+        
+        
+               <style type=\'text/css\'> @font-face {
+	font-family: "OpenSans";
+	src: local('Â˘'), url(http://szallas.travelo.hu/public/css/fonts/OpenSans-Regular.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+</style>
+    </head>
+    <body>
+    <body style="background: #faf8f1; text-decoration:none; font-size: 14px; font-family: 'OpenSans',arial,helvetica,sans-serif;margin:0;padding:0">
+        <table width="660" border="0" align="center" style="background: #faf8f1; width: 660px; font-family: 'OpenSans',arial,helvetica,sans-serif">
+            <tbody>    <!--MenĂź-->
+<tr>
+    <td>
+        <table  cellpadding="0" cellspacing="0" style="width:660px;margin:0 0 5px 0;">
+            <tr>
+                <td style=padding: 15px 0 8px><a href="http://utazas.life.hu/?utm_source=dm_origo&utm_medium=140314&utm_campaign=fooldal" target="_blank"><img src="topmenu-logo.png"></a></td>
+                <td style="background: -webkit-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -o-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -moz-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background:linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); padding: 8px 0px 8px 0px; text-align: center; font-size: 14px; font-weight: lighter; font-color:#f1ecdd; width:17%; border-right-style:solid; border-right-width:2px; border-right-color:#f1ecdd;"><a href="http://utazas.life.hu/kereses?keyword=wellness&belfold=1&nodate=1&utm_source=dm_origo&utm_medium=140314&utm_campaign=menu_wellness" style="text-decoration: none; color: #fff; font-weight: bold;" target="_blank">Wellness</a></td>
+                <td style="background: -webkit-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -o-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -moz-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background:linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); padding: 8px 0px 8px 0px; text-align: center; font-size: 14px; font-weight: lighter; font-color:#f1ecdd; width:17%; border-right-style:solid; border-right-width:2px; border-right-color:#f1ecdd;"><a href="http://utazas.life.hu/kereses?szo=bababarat&belfold=1&nodate=1&utm_source=dm_origo&utm_medium=140314&utm_campaign=menu_bababarat" style="text-decoration: none; color: #fff; font-weight: bold;" target="_blank">Bababarát</a></td>
+                <td style="background: -webkit-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -o-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -moz-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background:linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); padding: 8px 0px 8px 0px; text-align: center; font-size: 14px; font-weight: lighter; font-color:#f1ecdd; width:17%; border-right-style:solid; border-right-width:2px; border-right-color:#f1ecdd;"><a href="http://utazas.life.hu/kereses?szo=tengerpart&nodate=1&utm_source=dm_origo&utm_medium=140314&utm_campaign=menu_tengerpart" style="text-decoration: none; color: #fff; font-weight: bold;" target="_blank">Tengerpart</a></td>
+                <td style="background: -webkit-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -o-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -moz-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background:linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); padding: 8px 0px 8px 0px; text-align: center; font-size: 14px; font-weight: lighter; font-color:#f1ecdd; width:17%; border-right-style:solid; border-right-width:2px; border-right-color:#f1ecdd;"><a href="http://utazas.life.hu/akciok?utm_source=dm_origo&utm_medium=140314&utm_campaign=menu_akciok" style="text-decoration: none; color: #fff; font-weight: bold;" target="_blank">Akciók</a></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--MenĂź vĂŠge--><!--Nagykepes-->
+                <tr>
+                    <td style="background:#ffffff;">
+                        <table  cellpadding="0" cellspacing="0" style="width:625px;margin:15px 20px 15px 15px;">
+                            <!--Kep-->
+                            <tr>
+                                <td align="center"><a href="http://utazas.life.hu/kereses?keyword=husvet&belfold=1&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140314&utm_campaign=husvet"><img src="husvet.jpg" border="0"></a></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="">
+                                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:10px 10px;width:625px;margin-left:0px;">
+                                        <!--Cim-->
+                                        <tr>
+                                            <td style="text-align:center;"><a href="http://utazas.life.hu/kereses?keyword=husvet&belfold=1&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140314&utm_campaign=husvet" style="color:#1a438a; font-size:24px; font-weight:bold; text-decoration:none; text-transform:uppercase"> Húsvéti örömök</a></td>
+                                        </tr>
+                                        <!--Szoveg-->
+                                        <tr>
+                                            <td style="padding-top:35px; text-align:center;"><a href="http://utazas.life.hu/kereses?keyword=husvet&belfold=1&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140314&utm_campaign=husvet" style="color:#010101; font-size:20px; text-decoration:none;">Tervezze meg már most húsvéti pihenését!<br> <br>
+Legyen szó vendégházról, vagy luxusszállodáról, biztosan megtalálja a kedvére valót!</a></td>
+                                        </tr>
+                                        <tr>
+                                        <td align="center" style="padding-top:35px;">
+                                        <div style= "width: 200px; height:50px; 
+                                            background-color: #e60f71; 
+                                            text-align: center; padding-top:17px; 
+                                            border-radius:5px; 
+                                            box-shadow: 5px 5px 5px #888888; 
+                                            border: solid 1px #fff;"> 
+                                        <a style="font-family:'OpenSans',arial,helvetica,sans-serif; 
+                                            font-size:22px; color:#fff; 
+                                            font-weight:bold; text-decoration:none;" 
+                                            href="http://utazas.life.hu/kereses?keyword=husvet&belfold=1&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140314&utm_campaign=husvet">Megn&eacute;zem</a>
+                                        </td>
+                                        </tr>                     
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <!--Nagykepes vege-->        <tr>
+        <td align="center" style="padding: 25px 0; background:#ffffff">
+            <img usemap="#bottommenuimagemap" src="http://stuff.szallas.travelo.hu/hirlevel/misc/bottommenu.png" border="0" />
+         </td>
+     </tr>    <tr>
+    <td colspan="5" valign="top">
+        <table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 20px; background: #ffffff">
+            <tr>
+                <td style="padding: 20px; font-size:10px; color: #5d5d5d; text-align:center">A Life Utazás és a jelen hírlevélben szereplő partnerei fenntartják az utazással kapcsolatos feltételek és árak módosításának jogát. A Life.hu Utazási mellékletét a Confhotel-Net Kft. üzemelteti. Kapcsolat: +36-20-492-99-29; <a href="mailto:life@travelo.hu" style="color: #ec006e; text-decoration:none">life@travelo.hu</a>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>    <!-- Optimail lablec ON -->
+<tr>
+    <td colspan="5">
+        <table align="center" bgcolor="white" width="100%" style="margin-top: 20px; background: #ffffff">
+            <tr>
+                <td><table align="center" bgcolor="white" width="562">
+                        <tr>
+                            <td colspan="2" align="left" height="10" width="562"><img src="spacer1.gif" width="562" height="10" alt="" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" height="1" width="562"><img src=lablec_szaggatott.gif" width="562" height="1" alt="" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" valign="top" height="32"><img src="lablec_logo.gif" width="158" height="32" alt="" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td width="45"><img src="{openingLogger}" width="45" height="1" alt="" border="0"></td>
+                            <td align="left" valign="top" style="font-family:Arial; color:#555555; font-size:11px; text-align: justify">Ezt a levelet az optimail online direkt-marketing rendszeren keresztül küldtük a(z) 
+                                {email} címre az Ön előzetes hozzájárulásával, melyet az Origo Zrt-nek tett a freemail.hu 
+                                                ingyenes rendszerébe történő regisztrációja során. E szerint Ön marketingtartalmú 
+                                                célzott üzenetek fogadását vállalja. Szolgáltatásunkkal kapcsolatban bővebb információval 
+                                                szolgálunk az Ön számára a  <a style="color:#7EC100;text-decoration:none" href="http://www.optimail.hu" target="_blank">www.optimail.hu</a> oldalon.<br>
+                                Amennyiben a továbbiakban mégsem szeretne az érdeklődési körének megfelelő kedvezményes ajánlatokat vagy 
+                                                    nyereményjáték-ismertetőket kapni, kattintson <a href="{unsubscribeUrl}" style="color:#7EC100; text-decoration:none" target="_blank">ide</a>. <br>
+                                Az Origo Zrt. adatkezelési nyilvántartási azonosítója: 820-0001 
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" height="1" width="562"><img src=lablec_szaggatott.gif" width="562" height="1" alt="" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" height="10" width="562"><img src="spacer1.gif" width="562" height="10" alt="" border="0"></td>
+                        </tr>
+                    </table></td>
+            </tr>
+        </table>
+
+    </td>
+</tr>
+<!-- Optimail lablec OFF -->'</table>    <map name="bottommenuimagemap" id="bottommenuimagemap">
+    <area shape="rect" coords="58,17,201,47" href="http://repulojegy.travelo.hu/" alt="rep" target="_blank" />
+    <area shape="rect" coords="248,14,412,48" href="http://autoberles.travelo.hu/" target="_blank" />
+    <area shape="rect" coords="464,11,614,47" href="http://biztositas.travelo.hu/" target="_blank" />
+</map>     </body>
+	</html>
+	

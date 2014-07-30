@@ -1,0 +1,299 @@
+	<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+        <title>Life Utazás</title>
+        
+        
+               <style type=\'text/css\'> @font-face {
+	font-family: "OpenSans";
+	src: local('Â˘'), url(http://szallas.travelo.hu/public/css/fonts/OpenSans-Regular.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+</style>
+    </head>
+    <body>
+    <body style="background: #faf8f1; text-decoration:none; font-size: 14px; font-family: 'OpenSans',arial,helvetica,sans-serif;margin:0;padding:0">
+        <table width="660" border="0" align="center" style="background: #faf8f1; width: 660px; font-family: 'OpenSans',arial,helvetica,sans-serif">
+            <tbody>    <!--MenĂź-->
+<tr>
+    <td>
+        <table  cellpadding="0" cellspacing="0" style="width:660px;margin:0 0 5px 0;">
+            <tr>
+                <td style=padding: 15px 0 8px><a href="http://utazas.life.hu/?utm_source=dm_origo&utm_medium=140516&utm_campaign=fooldal" target="_blank"><img src="http://stuff.szallas.travelo.hu/hirlevel/misc/life_topmenu-logo.png"></a></td>
+                <td style="background: -webkit-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -o-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -moz-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background:linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); padding: 8px 0px 8px 0px; text-align: center; font-size: 14px; font-weight: lighter; font-color:#f1ecdd; width:17%; border-right-style:solid; border-right-width:2px; border-right-color:#f1ecdd;"><a href="http://utazas.life.hu/kereses?keyword=wellness&belfold=1&utm_source=dm_origo&utm_medium=140516&utm_campaign=menu_wellness" style="text-decoration: none; color: #fff; font-weight: bold;" target="_blank">Wellness</a></td>
+                <td style="background: -webkit-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -o-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -moz-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background:linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); padding: 8px 0px 8px 0px; text-align: center; font-size: 14px; font-weight: lighter; font-color:#f1ecdd; width:17%; border-right-style:solid; border-right-width:2px; border-right-color:#f1ecdd;"><a href="http://utazas.life.hu/kereses?szo=tengerpart&utm_source=dm_origo&utm_medium=140516&utm_campaign=menu_tengerpart" style="text-decoration: none; color: #fff; font-weight: bold;" target="_blank">Tengerpart</a></td>
+                <td style="background: -webkit-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -o-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -moz-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background:linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); padding: 8px 0px 8px 0px; text-align: center; font-size: 14px; font-weight: lighter; font-color:#f1ecdd; width:17%; border-right-style:solid; border-right-width:2px; border-right-color:#f1ecdd;"><a href="http://utazas.life.hu/kereses?szo=Balaton&belfold=1&utm_source=dm_origo&utm_medium=140516&utm_campaign=menu_balaton" style="text-decoration: none; color: #fff; font-weight: bold;" target="_blank">Balaton</a></td>
+                <td style="background: -webkit-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -o-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background: -moz-linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); background:linear-gradient(rgba(88,65,31,1), rgba(135,113,66,1)); padding: 8px 0px 8px 0px; text-align: center; font-size: 14px; font-weight: lighter; font-color:#f1ecdd; width:17%; border-right-style:solid; border-right-width:2px; border-right-color:#f1ecdd;"><a href="http://utazas.life.hu/akciok?utm_source=dm_origo&utm_medium=140516&utm_campaign=menu_akciok" style="text-decoration: none; color: #fff; font-weight: bold;" target="_blank">Akciók</a></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--MenĂź vĂŠge-->    <!--NagykĂŠpes-->
+<tr>
+    <td style="background:#ffffff;">
+        <table  cellpadding="0" cellspacing="0" style="width:625px;margin:15px 20px 15px 15px;">
+            <!--KĂŠp-->
+            <tr>
+                <td align="center"><a href="http://utazas.life.hu/kereses?szo=Rodosz&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=rodosz"><img src="http://stuff.szallas.travelo.hu/hirlevel/dm/140516_life_dm/rodosz625.jpg" border="0"></a></td>
+            </tr>
+            <tr>
+                <td align="center" style="">
+                    <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:10px 10px;width:625px;margin-left:0px;">
+                        <!--CĂ­m-->
+                        <tr>
+                            <td><a href="http://utazas.life.hu/kereses?szo=Rodosz&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=rodosz" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Irány Rodosz!</a></td>
+                        </tr>
+                        <!--SzĂśveg-->
+                        <tr>
+                            <td style="padding-top:5px;"><a href="http://utazas.life.hu/kereses?szo=Rodosz&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=rodosz" style="color:#010101; font-size:14px; text-decoration:none;">Igazi nyári hangulatra vágyik? Napsütés, gyönyörű partok, finom ételek - töltse szabadságát ezen a csodás görög szigeten, nem fog csalódni! </a></td>
+                        </tr>                        
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--NagykĂŠpes vĂŠge--><tr>
+    <td style="background:#ffffff">
+        <table cellpadding="0" cellspacing="0" style="width:625px;margin:0 20px 20px 15px;" align="center">
+            <tr>
+                <!-- Bal-->
+                <td style="width:305px;" align="center" valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                        <!--KĂŠp-->
+                        <tr>
+                            <td align="center"><a href="https://secure.travelo.hu/life/hotel-delibab-hajduszoboszlo/punkosdi-kenyeztetes-3-ejszakas-csomag?utm_source=dm_origo&utm_medium=140516&utm_campaign=delibab"><img src="http://stuff.szallas.travelo.hu/hirlevel/dm/140516_life_dm/delibab305.jpg" border="0"></a></td>
+                        </tr>
+                        <tr>
+                            <td align="center" style="padding: 0;width:305px;">
+                                <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:0px;width:305px;">
+                                    <!--CĂ­m-->
+                                    <tr>
+                                        <td><a href="https://secure.travelo.hu/life/hotel-delibab-hajduszoboszlo/punkosdi-kenyeztetes-3-ejszakas-csomag?utm_source=dm_origo&utm_medium=140516&utm_campaign=delibab" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Pünkösdi kényeztetés</a></td>
+                                    </tr>
+                                    <!--AlcĂ­m-->
+                                    <tr>
+                                        <td style=""><a href="https://secure.travelo.hu/life/hotel-delibab-hajduszoboszlo/punkosdi-kenyeztetes-3-ejszakas-csomag?utm_source=dm_origo&utm_medium=140516&utm_campaign=delibab" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Hotel Délibáb Hajdúszoboszló****</a></td>
+                                    </tr> 
+                                    <!--SzĂśveg-->
+                                    <tr>
+                                        <td style="padding-top:4px;"><a href="https://secure.travelo.hu/life/hotel-delibab-hajduszoboszlo/punkosdi-kenyeztetes-3-ejszakas-csomag?utm_source=dm_origo&utm_medium=140516&utm_campaign=delibab" style="color:#010101; font-size:13px; text-decoration:none;">Frissüljön fel a várva várt tavasz érkezésével, engedje, hogy kényeztessék, élje át a tökéletes pihenés élményét!</a></td>
+                                    </tr>                        
+                                </table>
+                            </td>
+                        </tr>
+                    </table></td>
+                <td style="width:15px;">&nbsp;</td>  
+                <!--Jobb-->
+                <td style="width:305px;" align="center" valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                        <!--KĂŠp-->
+                        <tr>
+                            <td align="center"><a href="http://utazas.life.hu/kereses?szo=Bulgaria&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=bulgaria"><img src="http://stuff.szallas.travelo.hu/hirlevel/dm/140516_life_dm/bulgaria3_305.jpg" border="0"></a></td>
+                        </tr>
+                        <tr>
+                            <td align="center" style="padding: 0;width:305px;">
+                                <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:0px;width:305px;">
+                                    <!--CĂ­m-->
+                                    <tr>
+                                        <td><a href="http://utazas.life.hu/kereses?szo=Bulgaria&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=bulgaria" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Bulgária</a></td>
+                                    </tr>
+                                    <!--AlcĂ­m--> 
+                                    <tr>
+                                        <td><a href="http://utazas.life.hu/kereses?szo=Bulgaria&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=bulgaria" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Lazítson a tengerparton!</a></td>
+                                    </tr>                                         
+                                    <!--SzĂśveg-->
+                                    <tr>
+                                        <td style="padding-top:4px;"><a href="http://utazas.life.hu/kereses?szo=Bulgaria&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=bulgaria" style="color:#010101; font-size:13px; text-decoration:none;">Akár családdal, akár barátokkal tervezi az idei nyaralást, Bulgária kiváló választás!</a></td>
+                                    </tr>                        
+                                </table>
+                            </td>
+                        </tr>
+                    </table>                   
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr><tr>
+    <td style="background:#ffffff">
+        <table cellpadding="0" cellspacing="0" style="width:625px;margin:0 20px 20px 15px;" align="center">
+            <tr>
+                <!-- Bal-->
+                <td style="width:305px;" align="center" valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                        <!--KĂŠp-->
+                        <tr>
+                            <td align="center"><a href="https://secure.travelo.hu/life/szarcsa-hotel/nyari-elofoglalasi-akcio-6-ej?utm_source=dm_origo&utm_medium=140516&utm_campaign=szarcsa"><img src="http://stuff.szallas.travelo.hu/hirlevel/dm/140516_life_dm/szarcsa305.jpg" border="0"></a></td>
+                        </tr>
+                        <tr>
+                            <td align="center" style="padding: 0;width:305px;">
+                                <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:0px;width:305px;">
+                                    <!--CĂ­m-->
+                                    <tr>
+                                        <td><a href="https://secure.travelo.hu/life/szarcsa-hotel/nyari-elofoglalasi-akcio-6-ej?utm_source=dm_origo&utm_medium=140516&utm_campaign=szarcsa" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Nyári előfoglalási akció</a></td>
+                                    </tr>
+                                    <!--AlcĂ­m-->
+                                    <tr>
+                                        <td style=""><a href="https://secure.travelo.hu/life/szarcsa-hotel/nyari-elofoglalasi-akcio-6-ej?utm_source=dm_origo&utm_medium=140516&utm_campaign=szarcsa" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Szárcsa Hotel*** - Székesfehérvár</a></td>
+                                    </tr> 
+                                    <!--SzĂśveg-->
+                                    <tr>
+                                        <td style="padding-top:4px;"><a href="https://secure.travelo.hu/life/szarcsa-hotel/nyari-elofoglalasi-akcio-6-ej?utm_source=dm_origo&utm_medium=140516&utm_campaign=szarcsa" style="color:#010101; font-size:13px; text-decoration:none;">Rendkívüli előfoglalási nyári akció, amennyiben 20.000 Ft-tal lefoglalja a szállását 2014.05.31-ig! Ne várjon tovább!</a></td>
+                                    </tr>                        
+                                </table>
+                            </td>
+                        </tr>
+                    </table></td>
+                <td style="width:15px;">&nbsp;</td>  
+                <!--Jobb-->
+                <td style="width:305px;" align="center" valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                        <!--KĂŠp-->
+                        <tr>
+                            <td align="center"><a href="http://utazas.life.hu/kereses?szo=hajo&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=hajo"><img src="http://stuff.szallas.travelo.hu/hirlevel/dm/140516_life_dm/hajo3_305.jpg" border="0"></a></td>
+                        </tr>
+                        <tr>
+                            <td align="center" style="padding: 0;width:305px;">
+                                <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:0px;width:305px;">
+                                    <!--CĂ­m-->
+                                    <tr>
+                                        <td><a href="http://utazas.life.hu/kereses?szo=hajo&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=hajo" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Tengeri hajóutak</a></td>
+                                    </tr>
+                                    <!--AlcĂ­m--> 
+                                    <tr>
+                                        <td><a href="http://utazas.life.hu/kereses?szo=hajo&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=hajo" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Ahány kikötő, annyi felfedezés </a></td>
+                                    </tr>                                         
+                                    <!--SzĂśveg-->
+                                    <tr>
+                                        <td style="padding-top:4px;"><a href="http://utazas.life.hu/kereses?szo=hajo&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=hajo" style="color:#010101; font-size:13px; text-decoration:none;">Napsütés, tenger, gasztronómia, kulturális látnivalók és sok pihenés - mindezt egyszerre kínálják a tengeri hajóutak. </a></td>
+                                    </tr>                        
+                                </table>
+                            </td>
+                        </tr>
+                    </table>                   
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr><tr>
+    <td style="background:#ffffff">
+        <table cellpadding="0" cellspacing="0" style="width:625px;margin:0 20px 20px 15px;" align="center">
+            <tr>
+                <!-- Bal-->
+                <td style="width:305px;" align="center" valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                        <!--KĂŠp-->
+                        <tr>
+                            <td align="center"><a href="https://secure.travelo.hu/life/hunguest-hotel-forras/fergeteges-csobbanas?utm_source=dm_origo&utm_medium=140516&utm_campaign=hunguest_forras"><img src="http://stuff.szallas.travelo.hu/hirlevel/dm/140516_life_dm/hunguestforras305.jpg" border="0"></a></td>
+                        </tr>
+                        <tr>
+                            <td align="center" style="padding: 0;width:305px;">
+                                <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:0px;width:305px;">
+                                    <!--CĂ­m-->
+                                    <tr>
+                                        <td><a href="https://secure.travelo.hu/life/hunguest-hotel-forras/fergeteges-csobbanas?utm_source=dm_origo&utm_medium=140516&utm_campaign=hunguest_forras" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Fergeteges csobbanás</a></td>
+                                    </tr>
+                                    <!--AlcĂ­m-->
+                                    <tr>
+                                        <td style=""><a href="https://secure.travelo.hu/life/hunguest-hotel-forras/fergeteges-csobbanas?utm_source=dm_origo&utm_medium=140516&utm_campaign=hunguest_forras" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Hunguest Hotel Forrás**** - Szeged</a></td>
+                                    </tr> 
+                                    <!--SzĂśveg-->
+                                    <tr>
+                                        <td style="padding-top:4px;"><a href="https://secure.travelo.hu/life/hunguest-hotel-forras/fergeteges-csobbanas?utm_source=dm_origo&utm_medium=140516&utm_campaign=hunguest_forras" style="color:#010101; font-size:13px; text-decoration:none;">A teljesen megújult szálloda Szeged belvárosához közel, a Tisza partján várja a kikapcsolódásra vágyókat.</a></td>
+                                    </tr>                        
+                                </table>
+                            </td>
+                        </tr>
+                    </table></td>
+                <td style="width:15px;">&nbsp;</td>  
+                <!--Jobb-->
+                <td style="width:305px;" align="center" valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" style="width:305px;">
+                        <!--KĂŠp-->
+                        <tr>
+                            <td align="center"><a href="http://utazas.life.hu/kereses?szo=Szicilia&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=szicilia"><img src="http://stuff.szallas.travelo.hu/hirlevel/dm/140516_life_dm/szicilia305.jpg" border="0"></a></td>
+                        </tr>
+                        <tr>
+                            <td align="center" style="padding: 0;width:305px;">
+                                <table cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:5px 10px;margin-left:0px;width:305px;">
+                                    <!--CĂ­m-->
+                                    <tr>
+                                        <td><a href="http://utazas.life.hu/kereses?szo=Szicilia&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=szicilia" style="color:#1a438a; font-size:16px; font-weight:bold; text-decoration:none; text-transform:uppercase">Szicília</a></td>
+                                    </tr>
+                                    <!--AlcĂ­m--> 
+                                    <tr>
+                                        <td><a href="http://utazas.life.hu/kereses?szo=Szicilia&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=szicilia" style="color:#5d5d5d; font-size:13px; text-decoration:none;">Napsütés, tengerpart</a></td>
+                                    </tr>                                         
+                                    <!--SzĂśveg-->
+                                    <tr>
+                                        <td style="padding-top:4px;"><a href="http://utazas.life.hu/kereses?szo=Szicilia&rendezes=csomagar|asc&utm_source=dm_origo&utm_medium=140516&utm_campaign=szicilia" style="color:#010101; font-size:13px; text-decoration:none;">Még nem döntötte el, hol töltené idei  szabadságát? Válassza Szicíliát, nem fogja megbánni.</a></td>
+                                    </tr>                        
+                                </table>
+                            </td>
+                        </tr>
+                    </table>                   
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>    <tr>
+        <td align="center" style="padding: 25px 0; background:#ffffff">
+            <img usemap="#bottommenuimagemap" src="http://stuff.szallas.travelo.hu/hirlevel/misc/bottommenu.png" border="0" />
+         </td>
+     </tr>    <tr>
+    <td colspan="5" valign="top">
+        <table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 20px; background: #ffffff">
+            <tr>
+                <td style="padding: 20px; font-size:10px; color: #5d5d5d; text-align:center">A Life Utazás és a jelen hírlevélben szereplő partnerei fenntartják az utazással kapcsolatos feltételek és árak módosításának jogát. A Life.hu Utazási mellékletét a Confhotel-Net Kft. üzemelteti. Kapcsolat: +36-20-492-99-29; <a href="mailto:life@travelo.hu" style="color: #ec006e; text-decoration:none">life@travelo.hu</a>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>    <!-- Optimail lablec ON -->
+<tr>
+    <td colspan="5">
+        <table align="center" bgcolor="white" width="100%" style="margin-top: 20px; background: #ffffff">
+            <tr>
+                <td><table align="center" bgcolor="white" width="562">
+                        <tr>
+                            <td colspan="2" align="left" height="10" width="562"><img src="http://stuff.szallas.travelo.hu/hirlevel/misc/spacer1.gif" width="562" height="10" alt="" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" height="1" width="562"><img src="http://stuff.szallas.travelo.hu/hirlevel/misc/lablec_szaggatott.gif" width="562" height="1" alt="" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" valign="top" height="32"><img src="http://stuff.szallas.travelo.hu/hirlevel/misc/lablec_logo.gif" width="158" height="32" alt="" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td width="45"><img src="{openingLogger}" width="45" height="1" alt="" border="0"></td>
+                            <td align="left" valign="top" style="font-family:Arial; color:#555555; font-size:11px; text-align: justify">Ezt a levelet az optimail online direkt-marketing rendszeren keresztül küldtük a(z) 
+                                {email} címre az Ön előzetes hozzájárulásával, melyet az Origo Zrt-nek tett a freemail.hu 
+                                                ingyenes rendszerébe történő regisztrációja során. E szerint Ön marketingtartalmú 
+                                                célzott üzenetek fogadását vállalja. Szolgáltatásunkkal kapcsolatban bővebb információval 
+                                                szolgálunk az Ön számára a  <a style="color:#7EC100;text-decoration:none" href="http://www.optimail.hu" target="_blank">www.optimail.hu</a> oldalon.<br>
+                                Amennyiben a továbbiakban mégsem szeretne az érdeklődési körének megfelelő kedvezményes ajánlatokat vagy 
+                                                    nyereményjáték-ismertetőket kapni, kattintson <a href="{unsubscribeUrl}" style="color:#7EC100; text-decoration:none" target="_blank">ide</a>. <br>
+                                Az Origo Zrt. adatkezelési nyilvántartási azonosítója: 820-0001 
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" height="1" width="562"><img src="http://stuff.szallas.travelo.hu/hirlevel/misc/lablec_szaggatott.gif" width="562" height="1" alt="" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" height="10" width="562"><img src="http://stuff.szallas.travelo.hu/hirlevel/misc/spacer1.gif" width="562" height="10" alt="" border="0"></td>
+                        </tr>
+                    </table></td>
+            </tr>
+        </table>
+
+    </td>
+</tr>
+<!-- Optimail lablec OFF -->'</table>    <map name="bottommenuimagemap" id="bottommenuimagemap">
+    <area shape="rect" coords="58,17,201,47" href="http://repulojegy.travelo.hu/" alt="rep" target="_blank" />
+    <area shape="rect" coords="248,14,412,48" href="http://autoberles.travelo.hu/" target="_blank" />
+    <area shape="rect" coords="464,11,614,47" href="http://biztositas.travelo.hu/" target="_blank" />
+</map>     </body>
+	</html>
+	
