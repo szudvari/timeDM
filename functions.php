@@ -553,6 +553,16 @@ function bottomMenu($picfolder) {
 EOT;
 }
 
+function bottomMenuLife() {
+    echo <<<EOT
+    <tr>
+        <td align="center" style="padding: 25px 0; background:#ffffff">
+            <img usemap="#bottommenuimagemap" src="bottommenu.png" border="0" />
+         </td>
+     </tr>
+EOT;
+}
+
 function bottomMenuMap() {
     echo <<<EOT
     <map name="bottommenuimagemap" id="bottommenuimagemap">
@@ -2314,13 +2324,13 @@ function lifeOptimailFooter($l_opti1, $l_opti2, $l_opti3, $l_opti4) {
             <tr>
                 <td><table align="center" bgcolor="white" width="562">
                         <tr>
-                            <td colspan="2" align="left" height="10" width="562"><img src="{$newsletter['picfolder']}/spacer1.gif" width="562" height="10" alt="" border="0"></td>
+                            <td colspan="2" align="left" height="10" width="562"><img src="spacer1.gif" width="562" height="10" alt="" border="0"></td>
                         </tr>
                         <tr>
-                            <td colspan="2" align="left" height="1" width="562"><img src="{$newsletter['picfolder']}/lablec_szaggatott.gif" width="562" height="1" alt="" border="0"></td>
+                            <td colspan="2" align="left" height="1" width="562"><img src="lablec_szaggatott.gif" width="562" height="1" alt="" border="0"></td>
                         </tr>
                         <tr>
-                            <td colspan="2" align="left" valign="top" height="32"><img src="{$newsletter['picfolder']}/lablec_logo.gif" width="158" height="32" alt="" border="0"></td>
+                            <td colspan="2" align="left" valign="top" height="32"><img src="lablec_logo.gif" width="158" height="32" alt="" border="0"></td>
                         </tr>
                         <tr>
                             <td width="45"><img src="{openingLogger}" width="45" height="1" alt="" border="0"></td>
@@ -2331,10 +2341,10 @@ function lifeOptimailFooter($l_opti1, $l_opti2, $l_opti3, $l_opti4) {
                             </td>
                         </tr>
                         <tr>
-                            <td colspan="2" align="left" height="1" width="562"><img src="{$newsletter['picfolder']}/lablec_szaggatott.gif" width="562" height="1" alt="" border="0"></td>
+                            <td colspan="2" align="left" height="1" width="562"><img src="lablec_szaggatott.gif" width="562" height="1" alt="" border="0"></td>
                         </tr>
                         <tr>
-                            <td colspan="2" align="left" height="10" width="562"><img src="{$newsletter['picfolder']}/spacer1.gif" width="562" height="10" alt="" border="0"></td>
+                            <td colspan="2" align="left" height="10" width="562"><img src="spacer1.gif" width="562" height="10" alt="" border="0"></td>
                         </tr>
                     </table></td>
             </tr>
