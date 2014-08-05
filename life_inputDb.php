@@ -20,6 +20,9 @@ if (!mkdir($dir)) {
         die("hiba, a könyvtár nem jött létre");
     }
 }
+else { 
+    chmod($dir, 0775);
+}
 
 //általános analytics
 @$travelo['analytics_source'] = iconv("UTF-8", "ISO-8859-2",($_POST["analytics_source"]));
