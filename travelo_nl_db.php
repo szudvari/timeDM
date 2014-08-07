@@ -13,7 +13,7 @@ closeDb($con);
 
 //style
 $style['travelo_style'] = <<<EOT
-       <style type=\'text/css\'> @font-face {
+       <style type='text/css'> @font-face {
 	font-family: "OpenSans";
 	src: local('¢'), url(http://szallas.travelo.hu/public/css/fonts/OpenSans-Regular.ttf) format('truetype');
 	font-weight: normal;
